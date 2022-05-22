@@ -5,4 +5,4 @@
 </p>
 <h1 align="center">X</h1>
 
-<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
+<h1 align="center">Follow my new istagram @hai_om.qw :)</h1>
