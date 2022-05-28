@@ -37,7 +37,7 @@ global.available = false //status online (online)
 
 global.botname = "Xdit-MD"
 
-global.ownername= "® Raditya-¡X"
+global.ownername= "© Raditya-¡X"
 
 global.myweb ="NOT"
 
@@ -63,7 +63,7 @@ global.owner = ["6285641476033","6285651476033","6285641466033"] //ganti agar fi
 
 global.packname = 'Di Buat Oleh Xdit-MD' //sticker wm
 
-global.author = '© Insta @hai_om.qw' //sticker wm
+global.author = 'Insta @hai_om.qw' //sticker wm
 
 global.sessionName = 'session'
 
