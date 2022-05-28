@@ -11,7 +11,7 @@
 
 
 
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+> Gabut doang 👤
 
 ## Bugs and Tester
 
