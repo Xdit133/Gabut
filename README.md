@@ -70,11 +70,11 @@ global.sessionName = 'session'
 ```
 Donate
 
-- [Saweria](https://wa.me/6285641476033)
+- [Voucher](https://wa.me/6285641476033)
 
 - [Dana](https://wa.me/6285641476033)
 
-- [Ovo](https://wa.me/6285641476033)
+- [Pulsa](https://wa.me/6285641476033)
 
 - [Gopay](https://wa.me/6285641476033)
 
