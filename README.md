@@ -39,7 +39,7 @@ global.botname = "Xdit-MD"
 
 global.ownername= "© Raditya-¡X"
 
-global.myweb ="NOT"
+global.myweb ="https://raditxdit.my.id/"
 
 global.youtube = "NOT"
 
