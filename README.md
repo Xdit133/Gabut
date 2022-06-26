@@ -37,9 +37,9 @@ global.available = false //status online (online)
 
 global.botname = "Xdit-MD"
 
-global.ownername= "© Raditya-¡X"
+global.ownername= "X-ZC"
 
-global.myweb ="https://raditxdit.my.id/"
+global.myweb ="http://tiny.cc/X-ZC"
 
 global.youtube = "NOT"
 
@@ -61,9 +61,9 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 
 global.owner = ["6285641476033","6285651476033","6285641466033"] //ganti agar fitur owner bisa di gunakan
 
-global.packname = 'Stiker By Xdit-MD' //sticker wm
+global.packname = 'Xdit-MD' //sticker wm
 
-global.author = 'Insta @hai_om.qw' //sticker wm
+global.author = 'IG @hai_om.qw' //sticker wm
 
 global.sessionName = 'session'
 
